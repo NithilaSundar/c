@@ -1,1 +1,7 @@
+#include<stdio.h>
+#include<conio.h>
+voi main{
+clrscr();
 printf("welcome to mcet");
+getch();
+}
