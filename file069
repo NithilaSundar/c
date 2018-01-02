@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-voi main{
+void main{
 clrscr();
 printf("welcome to mcet");
 getch();
